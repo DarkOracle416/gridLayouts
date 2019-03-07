@@ -1,0 +1,125 @@
+*{
+    box-sizing: border-box;
+}
+
+.color1 {
+    background-color: #7B1FA2;
+}
+
+.color2 {
+    background-color: #512DA8;
+}
+
+.color3 {
+    background-color: #303F9F;
+}
+
+.color4 {
+    background-color: #1976D2;
+}
+
+.color5 {
+    background-color: #0288D1;
+}
+
+.color6 {
+    background-color: #0097A7;
+}
+
+.color7 {
+    background-color: #00796B;
+}
+
+.color8 {
+    background-color: #388E3C;
+}
+
+.color9 {
+    background-color: #689F38;
+}
+
+.color10 {
+    background-color: #AFB42B;
+}
+
+.color11 {
+    background-color: #FBC02D;
+}
+
+.color12 {
+    background-color: #FFA000;
+}
+
+.col{
+    min-height: 100px;
+    float: left;
+    padding: 12px;
+}
+
+.pageContainer{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.col1{
+    width: 8.33%
+}
+
+.col2{
+    width: 16.66%
+}
+
+.col3{
+    width: 25%;
+}
+
+.col4{
+    width: 33.33%
+}
+
+.col5{
+    width: 41.67%
+}
+
+.col6{
+    width: 50%;
+}
+
+.col7{
+    width: 58.33%
+}
+
+.col8{
+    width: 66.67%
+}
+
+.col9{
+    width: 75%
+}
+
+.col10{
+    width: 83.33%
+}
+
+.col11{
+    width: 91.67%
+}
+
+.col12{
+    width: 100%;
+}
+
+.row:after {
+    clear: both;
+    display: block;
+    content: '';
+}
+
+.big{
+    height: 300px;
+}
+
+.medium{
+    height: 200px;
+}
+
